@@ -1,7 +1,7 @@
 ---
 title: Books/Index
 layout: page.html
-___
+---
 
 # Books
 
