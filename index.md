@@ -73,3 +73,8 @@
 
 ### Z
 
+
+
+{% for post in collections.all -%}
+* [{{ post.data.title }}]({{post.url}})
+* {% endfor -%}

@@ -13,11 +13,17 @@ Pattern
 Relationship
 
 
-###Content
+### Content
 What was it that you were expecting versus what is it that you recieved? 
 
-###Pattern
+### Pattern
 How often has this happened?
 
 >Once is happenstance. Twice is coincidence. The third time it’s enemy action.
 >- Auric Goldfinger from the James Bond book GoldFinger by Ian Flemming
+
+### Relationship
+What do you want to happen with the relationship?
+Do you have a relationship strong enough to have this conversation?
+
+The [Arbinger Institute](https://arbinger.com) has a training program and book [outward mindset](/outwardMindset) . that goes over the proper mindset to ask before you have a conversation. 
