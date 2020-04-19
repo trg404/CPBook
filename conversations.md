@@ -2,7 +2,7 @@
 
 
 There are generally four different catagories that conversations fall into. 
-https://medium.com/@DavidWAngel/the-four-types-of-conversations-debate-dialogue-discourse-and-diatribe-898d19eccc0a
+[Types of conversations](https://medium.com/@DavidWAngel/the-four-types-of-conversations-debate-dialogue-discourse-and-diatribe-898d19eccc0a)
 This article is a bit awkward with their terms while trying to keep all their terms with the Letter D but they still work out well.
 
 The following are the terms I'll use instead of the articles.
