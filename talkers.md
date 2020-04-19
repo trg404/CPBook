@@ -26,4 +26,4 @@ It's fire, it's freedom, it's flooding open
 It's a preacher in the pulpit and you'll find devotion
 There's something breaking at the brick of every wall, it's holding
 All that you know
-So tell me do you wanna go? < - _the greatest show_
+So tell me do you wanna go?  - _the greatest show_
