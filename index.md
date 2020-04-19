@@ -1,4 +1,7 @@
-
+---
+title: Books/Index
+layout: page.html
+___
 
 # Books
 
@@ -15,66 +18,7 @@
 
 
 # Index
-### A
-* [agile](/agile)
-* [art](/art)
-
-### B
-* [books to read](/toRead)
-
-### C
-* [conversation](/conversation)
-
-### D
-
-### E
-
-### F
-
-### G
-
-### H
-
-### I
-* [influence](/influence)
-
-### J
-
-### K
-
-### L
-
-### M
-
-### N
-
-### O
-
-### P
-
-### Q
-
-### R
-
-### S
-* [Side Show Talkers](/talkers)
-
-### T
-
-### U
-
-### V
-
-### W
-
-### X
-
-### Y
-
-### Z
-
-
 
 {% for post in collections.all -%}
 * [{{ post.data.title }}]({{post.url}})
-* {% endfor -%}
+{% endfor -%}
