@@ -1,3 +1,8 @@
+---
+title: Outward Mindset
+layout: page.html
+---
+
 # Outward Mindset
 
 [Synopsis](https://lifeclub.org/books/the-outward-mindset-the-arbinger-institute-review-summary)

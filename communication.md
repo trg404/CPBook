@@ -1,4 +1,9 @@
-#communication
+---
+title: Communication
+layout: page.html
+---
+
+# communication
 
 Communicaiton is conveying information from one person to another entity or person.
 

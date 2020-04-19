@@ -1,4 +1,9 @@
-#SideShow Talkers
+---
+title: Talkers
+layout: page.html
+---
+
+# SideShow Talkers
 
 Carnival Freak Show Barkers or Talkers as they prefer.
 

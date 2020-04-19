@@ -1,4 +1,9 @@
-#Conversations
+---
+title: Conversations
+layout: page.html
+---
+
+# Conversations
 
 
 I've found that https://www.vitalsmarts.com has a great over view of the breakdown of an effective conversation. I'm a particular fan of [Crucial Conversations}(crucialConversations) it breaks down conversaitons into 9 steps. 

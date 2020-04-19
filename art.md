@@ -1,4 +1,9 @@
-#Art
+---
+title: Art
+layout: page.html
+---
+
+# Art
 
 ###Photography
 [f/64](https://en.wikipedia.org/wiki/Group_f/64)

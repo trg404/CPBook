@@ -1,4 +1,9 @@
-#Getting Unstuck 
+---
+title: Getting Unstuck
+layout: page.html
+---
+
+# Getting Unstuck 
 
 > How to identify the gaps that are keeping you from what you want.
 >
