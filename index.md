@@ -2,8 +2,8 @@
 
 # Books
 
-##[agile](/agile)
-##[communication](/communication)
-##[conversation](/conversations)
-##[art](/art)
+*[agile](/agile)
+*[communication](/communication)
+*[conversation](/conversations)
+*[art](/art)
 
