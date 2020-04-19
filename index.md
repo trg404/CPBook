@@ -3,10 +3,7 @@
 # Books
 
 *[agile](/agile)
-
 *[communication](/communication)
-
-*[conversation](/conversations)
-
 *[art](/art)
+*[books to read](/toRead)
 
