@@ -1,5 +1,5 @@
 ---
-title: Books/Index
+title: Agile Metrics
 layout: page.html
 ---
 
