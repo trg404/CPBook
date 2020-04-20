@@ -43,7 +43,7 @@ The focus is on Cash Flow not profit.
  
 - Securities act of 1933 
   - Investors must be accurately informed, often viewed as for the primary investors. 
--Securities Exchange act of 1934
+- Securities Exchange act of 1934
   - Governs Secondary Market, formed the SEC to regulate stock exchange
 - Sarbanes-Oxley act of 2002
   - Management must certify the accuracy of financial statements
