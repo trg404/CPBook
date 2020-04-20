@@ -1,5 +1,5 @@
 ---
-titie: Dupont Equation
+title: Dupont Equation
 ---
 
 # Dupont Equation
