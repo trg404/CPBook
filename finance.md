@@ -122,4 +122,10 @@ ROE is what the company's sustainable growth rate (SGR) is based on.
 - Spontaneous Accounts
   - income statement or balance sheet account that changes as sales change
 1. Income Statement accounts 
-   
+  - Revenue, COGS, all Operationg Expenses, Deprecations, Taxes
+2. Balance Sheet Accounts
+
+  - Accounts Recievables (Billin will increase as sales increases), Inventory (we sell more stuff means we have ot buy more inventory to make more stuff), Accounts Payables (We buy more stuff means we have more invoices to pay for that stuff), Accruals (We sell more stuff means we have to hire more people to make and sell the stuff) 
+    
+[Interest Rates](/interestRate)
+
