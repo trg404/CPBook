@@ -7,9 +7,12 @@ title: Finance
 
 Finance is the study of fund management and asset allocation over time
 
-Accounting- Looks at the past
-Finance- uses the past informaiton to make future decisions
-Economics- Looks at what happens if ... and cause and effect
+- Accounting
+  - Looks at the past
+- Finance
+  - uses the past informaiton to make future decisions
+-Economics
+  - Looks at what happens if ... and cause and effect
 
 ### Purpose of Finance
 1. Maximize 
@@ -128,4 +131,6 @@ ROE is what the company's sustainable growth rate (SGR) is based on.
   - Accounts Recievables (Billin will increase as sales increases), Inventory (we sell more stuff means we have ot buy more inventory to make more stuff), Accounts Payables (We buy more stuff means we have more invoices to pay for that stuff), Accruals (We sell more stuff means we have to hire more people to make and sell the stuff) 
     
 [Interest Rates](/interestRate)
+
+[Time value of Money](/timeValueOfMoney)
 
