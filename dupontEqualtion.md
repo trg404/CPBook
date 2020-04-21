@@ -6,12 +6,13 @@ title: Dupont Equation
 
 [Dupont Equation Wiki](https://en.wikipedia.org/wiki/DuPont_analysis)
 
-It breaks down the Return on Equity of a given project and you can compare them together.
-
-ROE= Profit Margin X Asset Turnover X Equity Multiplyer
+The Dupont equation was developed to help managers make effective decisions to increase the Retun on Equity. The key to using the dupont equation is to learn the _names_ of the _3 components_ that make up the equation.
 
 
-Profit Margin = Net Proft / Sales
+Return on Equity - Net Income Margin X Total Asset Turnover X Leverage Mulitplier
+
+
+Net Income  Margin = Net Income / Sales
 
 Asset Turnover = Sales / Average Total Assets
 

@@ -6,5 +6,5 @@ title: Efficency Ratios
 
 ### Business
 
-[Dupont Equation](/dupontEquation)
+[Dupont Equation](/dupontEqualtion)
 

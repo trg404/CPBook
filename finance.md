@@ -36,7 +36,7 @@ The focus is on Cash Flow not profit.
   - Corporation seeks external funding
     -share holders
   - May have a [Principle/Agent Problem](/princpleAgent)
--Limited Liability Corporation
+- Limited Liability Corporation
   - A mix between General Partnership and Corporation
  
  ### Critical Financial Regulations that Play a signifigant role in our Financial System
@@ -84,4 +84,42 @@ There are five main ratio catagories for this study:
  
  Another important part of ratio analysis is _trend analysis_ which means looking at how the ratios have changed over time. This helps tell the analyst whether or not the company is improving it's performance over time.
  
+### Dividends
+
+Dividends ar defines as payments amde by the company to it's shareholders to give thema  portion of the firm's Net Income. Dividends are normally paid on a per share basis.
+
+Only 2 thigns a firm can do with net income
+1. Pay them to share holders as dividends
+2. Retain them in the company (Retained Earnings)
+
+Divided Payout Ratio is defined as the percentage of net income that the company pays to it's shareholders as a dividend.
+
+Divident Payout Ratio (b) = Dividends / Net Income 
+
+- Retention Ratio
+  - The percentage of Net Income that a firm retains in the company
+  - Retention Ratio (RR) = 1 - b (Payout Ratio) 
  
+ 
+
+### Forecasting
+
+- Return on Assets
+  - measure how effective the company has been in using its assets to generate net income.
+- Return on Equity
+  - measures how effective the company has been using it's equity to generate net income
+
+ROE is what the company's sustainable growth rate (SGR) is based on.
+
+- Percentage of Sales 
+  - method of forecasting used by many company to develop forecasted income statements and balance sheets (called Pro-Forma Financials) by using the percnetage of gorwth forecasted in Sales and apply that gorwth rate to any forecast any account that change sas sales change (called a spontaneous account)
+  - A firm can determine how much additional funding will be necesrary to support the forecasted change in sales.
+
+- Growth in Sales
+  - Sales Growth Rate is what is used to forecast the income statement and blaance sheet using the Pecentage of slaes method of forecasting . All spontaneous accounts are changed by the Sales of Growth rate. The change in Spontaneous accounts also drive sthe forecast of the discretionary accounts.
+  - Sales Growth Rate - Forecasted Sales / Last Year's Sales - 1
+ 
+- Spontaneous Accounts
+  - income statement or balance sheet account that changes as sales change
+1. Income Statement accounts 
+   
