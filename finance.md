@@ -69,3 +69,19 @@ Financial Statements 4 that are requried
     - occurs when revenue is considered realizable and earned 
       -not when cash is paid
 
+
+#### Ratio Analysis
+
+There are five main ratio catagories for this study:
+1. [Profitability ratios](/profitabilityRatios)
+2. [Liquidity ratios](/liquidityRatios)
+3. [Debt ratios](/debtRatios)
+4. [Market ratios](/marketRatios)
+5. [Efficency ratios](/efficencyRatios)
+
+##### Benchmarking
+ Benchmarking is comparing the company's ratios' to somehign that is meaningful. The usual way to do this is to compare it's ratioss to those of their industry. Industry ratios are available in a variety of publications. The most notable one is published by Dun and Bradstreet.
+ 
+ Another important part of ratio analysis is _trend analysis_ which means looking at how the ratios have changed over time. This helps tell the analyst whether or not the company is improving it's performance over time.
+ 
+ 
