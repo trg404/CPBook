@@ -18,21 +18,21 @@ title: Supply Chain Management
 - Agile
   - The use of responsiveness, competency, flexibility, and quickness to manage how well a supply chain entity operates on a daily basis
 
-Most suitable for innovative products such as cell phones and computers
+  - Most suitable for innovative products such as cell phones and computers
 
-Focus: Speed and felxibility
+  - Focus: Speed and felxibility
 
-For products with short life cycles and unpredictable demand
+  - For products with short life cycles and unpredictable demand
 
 
 - Lean
   - Traditional "Factory" chain, which focuses on producing high volume at low cost. The goal is to add value for customers by reducing the cost of goods and lowering waste or non value added activities. 
 
-Most suitable for traditional products with minimal innovation such as curtain rods or can openers
+  - Most suitable for traditional products with minimal innovation such as curtain rods or can openers
 
-Focus: Eliminate waste and low cost
+  - Focus: Eliminate waste and low cost
 
-For products with long life cycles and stable demand
+  - For products with long life cycles and stable demand
 
 ## Theory of Constraints
 
