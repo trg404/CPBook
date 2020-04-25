@@ -344,3 +344,59 @@ A metric or measure, used to determine how much capacity is acutally being used 
 ```
 Capacity Utilization = Actual output / Design Capacity
 ```
+
+
+##### Efficiency rate
+
+A metric, or measure, used ot determine how much effective capacity is actualyl being used to achieve output
+
+```
+Efficency = Actual Output / Effective Capacity
+```
+
+### Role of facility Location
+
+the placement of a facility with regard to a company's custoerms, suppliers, and other facilities with which the company interacts based on quantitative and qualitative factors. Quantitative factors are easily measureable and are usualy assigne da numerical value, while qualitative factors are more subjective and are usually not enumerated.
+
+- Regional Strategy
+  - requires that each production facility has defined marketing area and each facility produces a complete line of products for tha area. this is often done when customer convenience and access are important, or when outbound transportation costs are very high.
+
+- Product Facility Strategy
+  - means that one facility is responsible for producing one product or product line and shipping that product throughout the country and the world this apporach is appropriate when the production process is complex and hard to control, such as making ceramic heat shield for spacecraft.
+
+
+```
+TC = VC(x) + FC
+```
+- TC
+  - Total Costs
+    - consists of fixed costs and variable costs.
+- VC
+  - Variable Costs
+    - those which change and can be adjusted as business conditions change
+- FC
+  - Fixed Costs
+    - those which remain the same in all business conditions
+- x
+  - Number of units
+
+
+### Foundations of Process Selection
+
+Determining the most appropriate method of complete a task
+
+- Assembly Line
+  - process selection most appropriate to produce high volume with little to no variation. Uses product facility layout (i.e. car manufacturer)
+- Continuous Flow
+  - Process selection most appropriate to produce high volumen with no variation. sues product facility layout (i.e. Oil Refinery) 
+   - Also called Continuous inventory flow
+- Batch flow
+  - process selectin most appropriate to produce high volume with some variation. uses product facility layout: requreis equipment or tool changes
+- Job Shop
+  - Process slection most appropriate to produce low volume with little to high variation. uses process facility layout (i.e. Customized furniture) 
+
+
+- Economies of scale
+  - is the ability to produce more goods at a lower cost by better utilizing the same fixed costs
+- Economies of Scope
+  - Can be express as "economies of scale through product line diversificatoin" it implies building the volume necessary to cover fixed costs by producing a variety of products on the same equipment. This requires flexibility within the organization.
