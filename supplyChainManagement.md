@@ -323,10 +323,10 @@ r defective or do not meet customer's specifications.
  
 #### Layouts
 
-- Product Oriented Layout
+- _Product_ Oriented Layout
   - characterized by high demand for the smae or similar products.
   - Also called Sequential Layout
-- Process Oriented Layout
+- _Process_ Oriented Layout
   - Characterized by the produciton of many different products with the same equipment and low volume of any individual product.
   - Also caleld funcitonal layout
 
