@@ -341,7 +341,6 @@ r defective or do not meet customer's specifications.
 ##### Capacity Utilization
 
 A metric or measure, used to determine how much capacity is acutally being used on an average basis. 
-'''
+```
 Capacity Utilization = Actual output / Design Capacity
-'''
-
+```
