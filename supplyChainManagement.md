@@ -4,6 +4,16 @@ title: Supply Chain Management
 
 # Supply Chain Management
 
+## Logistics
+
+managing the movement of materials, components and information from point to point in the supply chain.
+
+- Reverse Logistics
+  - The process of returning defective products to the manufacturer for repair or replacement, and/or efforts to reuse and recycle materials
+- Third Party Logistics
+  - when a company uses a 3rd party to outsource their distribution, wharehousing and fullfillment services
+
+
 ## types of integration
 - Veritcle integration
   - A company owning many steps in their supply chain.
@@ -12,9 +22,19 @@ title: Supply Chain Management
   - Forward
     - Owning closer to the if not the retail side of the supply chain
 
+- Sourcing
+  - Insourcing
+    - When goods and services are provided by the organization itself.
+  - Outsourcing
+    - When goods and services are obtained from outside suppliers
 
-## types of supply chains
 
+
+## Supply Chain Strategies
+
+-Vendor Management Inventory
+  - the vendor or supplier, can better coordinate its own production with the replenishment of supplier inventory, thus reducint cost and imporivng delivery performance between the supplier and the retailer. To make this work, the suppliers recieve daily point of sale data from the retail stores, and they also have acces to retailer's inventory files.
+ 
 - Agile
   - The use of responsiveness, competency, flexibility, and quickness to manage how well a supply chain entity operates on a daily basis
 
@@ -36,6 +56,10 @@ title: Supply Chain Management
 
 ## Theory of Constraints
 
+- Constraint
+  - any resource who capacity is less than or equal to demand for that resource
+ 
+ 
 - Bottleneck 
   - Biggest constraing on a system or process.
 
@@ -274,4 +298,50 @@ r defective or do not meet customer's specifications.
     
     
 [Six Sigma](/sixSigma)
+
+
+## Capacity Planning
+
+- Capacity
+  - is a measure of an organizations ability to sustainably provide customers with the deamnded services or goods in the amount requested and in a timely manner, given current resources. Capacity also describes an organizations maximum sustainable rate of production
+  - Capacity Plannign
+    - Is need to support customer deman and maintain produciton capacity as demands for products change.
+
+#### Capacity Planning 
+
+- Lead 
+  - adds capacity with the aniticipation of an increase in demand. This strategy is considered aggresive and is primarily used in an effort to obtain customer from competitors by reducing theamount of lead time and improving service levsl. using this strategy ensures adequate capacity is available to mee all demands during high growth periods. 
+
+- Lag
+  - Adds capacity only after an organization is running at full capacity or is beyong due to increase in demand. This is the oppostie of lead capacity strategy.
+ 
+- Match
+  - Adds capacity in small incremental amounts in response to changing demadns in the market
+
+- Adjustment 
+  - adds or reduce capacity in small or large amounts as consumer demand changes; triggered by major changes to process or system.
+ 
+#### Layouts
+
+- Product Oriented Layout
+  - characterized by high demand for the smae or similar products.
+  - Also called Sequential Layout
+- Process Oriented Layout
+  - Characterized by the produciton of many different products with the same equipment and low volume of any individual product.
+  - Also caleld funcitonal layout
+
+- Design Capacity
+  - The maximum achievable output of a procees or system
+- Effective Capacity
+  - is the maximum capacicty given the product mix, equipment changeovers, and scheduled downtime of the production schedule. 
+  - always _less_ than deisgn capacity
+- Actual Output
+  - total amount of produced during a given time period.
+
+##### Capacity Utilization
+
+A metric or measure, used to determine how much capacity is acutally being used on an average basis. 
+'''
+Capacity Utilization = Actual output / Design Capacity
+'''
 
