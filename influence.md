@@ -1,6 +1,5 @@
 ---
 title: Influence
-
 ---
 
 # influence
@@ -18,3 +17,5 @@ If you ask for a small favor they are more likely to do you a big favor next.
 
 
 [Authentic Self](/authenticSelf)
+
+
