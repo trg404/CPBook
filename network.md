@@ -93,6 +93,19 @@ _*Open Systems Interconnection*_
     
 ### Ethernet LAN
 
+- Frame
+  - Data over an ethernet
+  - Header
+    - Preamble
+    - Start Frame Delimiter
+    - Destination MAC address and source
+    - Mac Address
+    - Length/Type
+  - Data
+    - Pad (data added to bring up to minumum)
+  - Trailer
+    - Frame Check Sequnce
+
 
 ### Home Networking
 
