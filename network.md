@@ -108,11 +108,57 @@ _*Open Systems Interconnection*_
 
 
 ### Home Networking
+ 802.11 
+  - A, 54Mbps 75 ft, 5GHZ
+  - b, 11 Mbps 100-150 ft, 2.4Ghz
+  - g 54 Mbps 150Ft 2.4Ghz
+  - N 4x 802.11g (200+Mbps) 2.4ghz or 5 Ghz
+  - AC  1.3 Gpbs 5hz
+
+- Switch
+  - Estabishes a direct connection from the sender to the destination without passing the data trafic to other networking devices.
+- Router
+  - Connects two ore more networks using a single connection to the ISP
+- Access Point
+  - Interconnects wireless devices and provides a connection to the wired lan
+- GateWay
+  - provides high speed data access via a cable or telephone company's DSL connection.
+
+
 
 ### Assembling Office LAN
 
+- 10Base2
+  - 10Mbps, over Coaxial Cable up to 185 m, also called thinnet
+- 10Base5
+  - 10 Mpbs over coaxial cable up to 500 m, also called Thicknet
+- 10BaseT
+  - 10Mpbs over twisted pair
+- 10BaseF 
+  - 10Mpbs over multimode Fiber optic cable
+- 10BaseFL
+  - 10 Mbps over 850 nm multimode fiberoptic cable
+- 100BaseT
+  - 100Mbps over twister-pair also called fast ethernet
+- 100baseFX
+  - 100Mpbs over Fiber
+- 1000baseT
+  - 1000Mpbs over twisted pair
+- 1000baseFX
+  -1000Mbps over fiber
+- 1000BaseLS
+  - 1000Mpbs over fiber
+- 1000baseSX
+  - 1000MBPS over fiber
+- 1000baseLX
+  - 1000Mpbs over fiber
+- 10GE 
+  - 10GB (10GBaseT) ethernet
+
+
 ### testing and troubleshooting LAN
 
+use the ping command.
 
 
 ## lesson 4
