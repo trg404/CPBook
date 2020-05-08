@@ -161,12 +161,101 @@ _*Open Systems Interconnection*_
 use the ping command.
 
 
-## lesson 4
+## lesson 4 Wireless Networking
+### the IEEE 802.11 wireless LAN standard
+
+wireless lans create ad hoc networks when put a bunch together you get a wireless mesh netowrk
+
+802.11 N can use MIMO (Multiple Input Multiple Output) it splits the signal over different wavelengths
+ 
+802.11 AC uses 5 ghz and can have mulitple users using MIMO
+ 
+- DSSS
+  - Direct Sequence Spread Specturm
+  - Spreading over 14 channels over a GHZ frequency
+- OFDM
+  - Orthogonal Frequency Division Multiplexing
+  - uses invertion math to make sure you're not on the same wavelength as another band
 
 
+802.11
+- a
+  - this standard can provide data transfer raties up to 54 mpbs and an oeprating range of up to 75 feet. it operates at 5 ghz and uses OFDM
+- b
+  - This standard can provide data transfer rates up to 11 mbps and an operating range up to 150 feet. it operates at 2.4 ghz and uses DSSS or OFDM
+- g
+  - this standard can provide data transfer rates up to 54 mbps and an operating range up to 150 feet. it operates at 2.4 ghz and uses DSSS or OFDM
+- N 
+  - This highspeed wireless connectivity promises data transfer rates over 200 mbps. it operates at 2.4 ghz and 5ghz and uses DSSS or OFDM 
+- i 
+  - This standard for WLANs provides improved data encryption for netowrks that use A B and G standards 
+- r 
+  - this standard is designed to speed handoffs between access points or cells in WLAN. this standard is critical addition to 802.11 WLANS if voice traffic is become widely deployed
+- ac
+  - this is the next generation of high speed wireless connectivity. This technology promiese data rates up to 1 GPbps and operates over the 5ghz band.
+ 
+ 
+ 
+
+### 802.11 wireless networking
+
+- SSID
+  - service set identifier
+
+- CAPWAP
+  - configuraiton and provisioning of wireless access points
+
+### Bluetooth, WiMAX, RFID, and Mobile Communications
+#### Bluetooth
+Bluetooth connects in a piconet
+a pico net can hold up to 8 devices
+a piconet works as a star topology with the others being slaves.
+
+#### WiMax
+
+WorldWide Interoperability for Microwave Access
+Broadband Wireless access (BWA) 
+
+802.16e holds a lot of promise as a mobil air interface.
+
+#### RFID
+Radio Frequency Identification
+
+
+RFID tags catagories
+- Passive
+  - provided to a passive tag by rectifiying the RF energy transmitted from the read, that strikes the RF tag attena. 
+- Semi-active
+  - with semi active tags, a battery powers the electronivs on a tag but the tag uses back scatter to transmit informaiotn back ot the reader.
+- active
+  - with avtive tags, a better powers the tag and transmits a signal back ot the reader. Basically this is a radio transmitter. new active RFID tags are inrocporating wireless ethernet, the 802.11 b wifi connectivity. 
+    
+Frequency Opperations
+- low frequency tags
+  - lf tags typically use frequency shift keying between 125 khz and 134 khz. they're suitable for iniaml identification. 
+- high frequency tags
+  - HF tags oeprate in the 13.56 Mhz industrial band, high frequency tags have been availbly commercially since 1995. the range is aproximately 1 meter
+- Ultra high frequency tags
+  - UHF tags work at the 860-960 Mhz and at 2.4 Ghz. the data rates for these tags can be 50-150 kpbs and great. the tags are popular for trancking inventory the read rang for passive uHF tags is 2.6 meters which amke sthem a good choice for reading pallet tags. however if an active tag is used a read range up to 100 meters is possibe.
+
+
+#### Mobile Communications
+-CDMA
+  - Code Division Multple Access
+  - communicaiotns system in which spread spectum techniques are used to multiplex more than one signal within a single channel, in this case each device uses a different binary sequence to muldate the carrier, spread the spectrum of the wave form. the signals are seperaed at the reciever by a correlator that accepts only the signals from the seleced binary sequence. 
+- LTE/4g
+  - Long Tem Evolution is a 4g wireless communication standard. it is designed to provide speeds up to 10x those of 3g networkds. 
+- HSPA+
+  - evolved high speed packet access provides netowrk speeds comparable to those of LTE networks. theoretical speeds are 168 mpbs for download and 22mbps uplink
+- 3g/4g
+  - developed to provide boradband network wireless service. the stndard degining 3g wireless is called International Mobile OCmmunicaiotn or IMT200 4g is it's sucessors and has download speeds up to 100mpbs
+- Edge
+  - Enhanced Data GSM evolution provudes download speeds of 384 kbps
+- NFC
+  - a concept related to mobile communicaiton and smartphones is NFC, Near Field COmmunications. they can communicate with one naother if they're withing 4 cm of one another. 
+    
 
 ## Lesson 10
-
 
 ## Lesson 12
 
