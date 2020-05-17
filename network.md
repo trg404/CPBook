@@ -255,11 +255,4 @@ Frequency Opperations
   - a concept related to mobile communicaiton and smartphones is NFC, Near Field COmmunications. they can communicate with one naother if they're withing 4 cm of one another. 
     
 
-## Lesson 10
-
-## Lesson 12
-
-## Lesson 13
-
-
 
