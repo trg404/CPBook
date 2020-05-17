@@ -11,7 +11,7 @@ layout: page.html
   - how to talk to people or convey information
 - [art](/art)
   - art history and things I wanna try
-- [books to read](/toRead)
+- [books to read](/books2read)
   - books that have been recomended or I've come accross to read later
 
 
