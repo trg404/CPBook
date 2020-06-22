@@ -66,7 +66,10 @@ _*Open Systems Interconnection*_
 
 - Network
   - Provides routing decision
-  - Examples, IP IPX (internet protocol, interwork packet exchange)
+- Data Link
+  - Provies for the flow of data
+    - Handles error recover, flow control (syncronization), and sequencing (which terminlals are sending and which are recieving). it is considered the "media access control layer" and is where media access control (MAC) addressing is defined. The Ethernet 802.3 standard is defined in this area, which is why the MAC address is sometimes called the ethernet address.
+   - Examples MAC adddresses  - Examples, IP IPX (internet protocol, interwork packet exchange)
   - accepts outgoing messages and combines messages or segments into packets, adding a header that includes routing information. it acts as the network controller. 
 
 - Transport 
