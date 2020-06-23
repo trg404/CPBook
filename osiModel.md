@@ -60,3 +60,34 @@ _*Open Systems Interconnection*_
 
 
 
+
+Standardization of layers of labs for how a network should be set up.
+
+framework that ensure compatability between networks.
+
+nit card works at the physical layer.
+Physical layer is everything you can touch.
+Hub is at the physical
+
+Datalink works for mac addresses
+switch is at the data link layer.
+
+Network
+Ip sits there
+
+transport 
+Ensures stuff gets there ok.
+Unreliable or Reliable
+will it go back to where it was at when it disconnected
+
+Session 
+establishing how long you're talking with another network. If you're trying to connect to another network. Buffering and time outs
+
+Presentation
+Translates the standard data into other types of files. So internet speak into ascii or Jpeg
+
+Application
+these are the protocols that show how things are going to. 
+
+
+

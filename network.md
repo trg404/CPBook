@@ -259,3 +259,9 @@ Frequency Opperations
     
 
 
+
+Cohotrt 1 video
+
+
+WEP + AES best encryption for wireless
+
