@@ -10,10 +10,11 @@ title: Network
 
 - Protocol
   - Set of rules established for users to exchange information.
-
+m 
 
 ### Network Topologies
 #### Physical Topologies
+- clear
 - *Types*
   - Star
     - All computers are connected to one switch or hub. 
@@ -264,4 +265,21 @@ Cohotrt 1 video
 
 
 WEP + AES best encryption for wireless
+
+
+Cohort 2 
+
+Firewall
+DMZ - semi protected computer that is halfway into the network, it's behind firewall but more easily accessible than full into the network.
+
+
+
+Data rates for T lines
+t1 - 1.544 Mpbs
+t2 - 6.312 Mpbs
+t3 - 44.736 Mpbs
+t4 - 274.176 MPbs
+
+E1 - 2.048 Mbps
+E3 - 34.368 Mbps
 
